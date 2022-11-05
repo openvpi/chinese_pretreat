@@ -1,0 +1,4 @@
+device: cpu
+data_path_txt:  ./demo_texts/*.txt
+save_dic_path: './phn_dic.txt'
+clean_num: true
